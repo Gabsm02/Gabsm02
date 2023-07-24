@@ -1,5 +1,8 @@
 <h1>Olá, me chamo Gabriel Mendes!</h1>
 
+<strong>Sobre mim</strong>
+
+
 
 Eu sou Gabriel Mendes e sou um desenvolvedor de software em construção. Sou apaixonado por tecnologia e estou sempre procurando novas maneiras de usá-la para resolver problemas. Tenho experiência em HTML, CSS e ReactJS. 
 
