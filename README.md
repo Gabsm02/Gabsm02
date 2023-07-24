@@ -35,6 +35,10 @@ LinkedIn: https://www.linkedin.com/in/gabrielmendes02/
 
 
 
+![snake gif](https://github.com/Gabsm02/Gabsm02/blob/output/github-contribution-grid-snake.svg)
+
+
+
 Obrigado por visitar meu perfil!
 
 
