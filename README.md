@@ -5,12 +5,16 @@
 
 
 Eu sou Gabriel Mendes e sou um desenvolvedor de software em construção. Sou apaixonado por tecnologia e estou sempre procurando novas maneiras de usá-la para resolver problemas. Tenho experiência em HTML, CSS e ReactJS. 
+
 ##
+
 Meus projetos:
 
 Projeto 1: Uma ideia de um site para portifólio.
 Estou sempre procurando novos projetos para trabalhar, então se você tiver alguma ideia, não hesite em me contatar.
+
 ##
+
 Minhas habilidades:
 
 - Comunicação
@@ -32,7 +36,9 @@ Linguagens de programação:
 Plataformas: Windows
 
 Ferramentas: GitHub
+
 ##
+
 Meus contatos
 
 <div> 
