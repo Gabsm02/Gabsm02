@@ -4,7 +4,7 @@
 
 
 
-Eu sou Gabriel Mendes e sou um desenvolvedor de software em construção. Sou apaixonado por tecnologia e estou sempre procurando novas maneiras de usá-la para resolver problemas. Tenho experiência em HTML, CSS e ReactJS. 
+Eu sou Gabriel Mendes e sou um desenvolvedor de software fullstack em construção. Sou apaixonado por tecnologia e estou sempre procurando novas maneiras de usá-la para resolver problemas. Tenho experiência em HTML, CSS e ReactJS. 
 
 ##
 
@@ -12,6 +12,8 @@ Meus projetos:
 
 Projeto 1: Uma ideia de um site para portifólio.
 Estou sempre procurando novos projetos para trabalhar, então se você tiver alguma ideia, não hesite em me contatar.
+
+Projeto 2: Este projeto é uma aplicação web interativa de reprodução de música, desenvolvida utilizando a biblioteca React. Através desta aplicação, os usuários podem explorar e reproduzir uma lista de músicas disponíveis. A interface do usuário é organizada de forma intuitiva e oferece diversas funcionalidades relacionadas à reprodução de música, incluindo controle de reprodução, seleção de faixas, exibição de informações sobre a música em reprodução e uma barra de progresso para acompanhar o tempo de reprodução.
 
 ##
 
