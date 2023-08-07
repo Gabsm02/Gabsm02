@@ -1,6 +1,6 @@
 <h1>Olá, me chamo Gabriel Mendes!</h1>
 
-<strong>Sobre mim</strong>
+<h2>Sobre mim</h2>
 
 
 
@@ -8,7 +8,7 @@ Eu sou Gabriel Mendes e sou um desenvolvedor de software fullstack em construç�
 
 ##
 
-Meus projetos:
+<h2>Meus projetos:</h2>
 
 Projeto 1: Uma ideia de um site para portifólio.
 Estou sempre procurando novos projetos para trabalhar, então se você tiver alguma ideia, não hesite em me contatar.
@@ -17,14 +17,14 @@ Projeto 2: Este projeto é uma aplicação web interativa de reprodução de mú
 
 ##
 
-Minhas habilidades:
+<h2>Minhas habilidades:</h2>
 
 - Comunicação
 - Trabalho em equipe
 
 ##
 
-Linguagens de programação: 
+<h2>Linguagens de programação:</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabs-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -35,13 +35,13 @@ Linguagens de programação:
 ##
 
 
-Plataformas: Windows
+<h2>Plataformas:</h2> Windows
 
-Ferramentas: GitHub
+<h2>Ferramentas:</h2> GitHub
 
 ##
 
-Meus contatos
+<h2>Meus contatos</h2>
 
 <div> 
   <a href = "gabsdev02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
