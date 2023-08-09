@@ -6,7 +6,7 @@
 
 Eu sou Gabriel Mendes e sou um desenvolvedor de software fullstack em construção. Sou apaixonado por tecnologia e estou sempre procurando novas maneiras de usá-la para resolver problemas. Tenho experiência em HTML, CSS e ReactJS. 
 
-##
+
 
 <h2>Meus projetos:</h2>
 
@@ -15,14 +15,14 @@ Estou sempre procurando novos projetos para trabalhar, então se você tiver alg
 
 Projeto 2: Este projeto é uma aplicação web interativa de reprodução de música, desenvolvida utilizando a biblioteca React. Através desta aplicação, os usuários podem explorar e reproduzir uma lista de músicas disponíveis. A interface do usuário é organizada de forma intuitiva e oferece diversas funcionalidades relacionadas à reprodução de música, incluindo controle de reprodução, seleção de faixas, exibição de informações sobre a música em reprodução e uma barra de progresso para acompanhar o tempo de reprodução.
 
-##
+
 
 <h2>Minhas habilidades:</h2>
 
 - Comunicação
 - Trabalho em equipe
 
-##
+
 
 <h2>Linguagens de programação:</h2>
 <div style="display: inline_block"><br>
@@ -32,14 +32,14 @@ Projeto 2: Este projeto é uma aplicação web interativa de reprodução de mú
   <img align="center" alt="Gabs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-##
+
 
 
 <h2>Plataformas:</h2> Windows
 
 <h2>Ferramentas:</h2> GitHub
 
-##
+
 
 <h2>Meus contatos</h2>
 
@@ -49,7 +49,7 @@ Projeto 2: Este projeto é uma aplicação web interativa de reprodução de mú
   
 </div>
 
-##
+
 
 <div>
   <a href="https://github.com/Gabsm02">
@@ -57,7 +57,7 @@ Projeto 2: Este projeto é uma aplicação web interativa de reprodução de mú
   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabsm02&layout=compact&langs_count=16&theme=dracula"/>
 </div>
     
-##
+
 
 
 
