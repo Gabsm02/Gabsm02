@@ -11,32 +11,33 @@ Estou sempre procurando novos projetos para trabalhar, então se você tiver alg
 
 Projeto 2: Este projeto é uma aplicação web interativa de reprodução de música, desenvolvida utilizando a biblioteca React. Através desta aplicação, os usuários podem explorar e reproduzir uma lista de músicas disponíveis. A interface do usuário é organizada de forma intuitiva e oferece diversas funcionalidades relacionadas à reprodução de música, incluindo controle de reprodução, seleção de faixas, exibição de informações sobre a música em reprodução e uma barra de progresso para acompanhar o tempo de reprodução.
 
-<h2>Minhas habilidades:</h2>
+Projeto 3: Este projeto consiste em uma página HTML, CSS, JS que implementa um jogo do Mario básico. O objetivo do jogo é controlar o personagem Mario para evitar obstáculos e coletar pontos, o personagem pula ao apertar qualquer tecla do teclado e caso colida em algum tubo, o jogo é encerrado aparecendo uma mensagem de game over
 
-- Comunicação
+<h2>Minhas habilidades:</h2>
+- Comunicação Eficaz
 - Trabalho em equipe
+- Resolução de Problemas
+- Atenção aos Detalhes
 
 <h2>Linguagens de programação:</h2>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gabs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabs-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gabs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gabs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gabs-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Gabs-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Gabs-Postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="Gabs-Nodejs" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  
+  
 </div>
 
-
-<h2>Plataformas:</h2> Windows
-
-<h2>Ferramentas:</h2> GitHub
-
-<h2>Meus contatos</h2>
+<h2>Meus Contatos</h2>
 
 <div> 
   <a href = "gabsdev02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielmendes02/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-
 
 <div>
   <a href="https://github.com/Gabsm02">
