@@ -1,6 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+Chamo+Gabriel+Mendes!;" />
 </h1>
+
 <h2>Sobre mim</h2>
 
 Sou graduando em Engenharia de Software na UNIFACS e tenho certificação em Desenvolvimento Web Full Stack pela Cubos Academy, com conhecimento em backend e sólidas habilidades em frontend. Sou apaixonado por tecnologia e estou sempre buscando aprendizado contínuo para me manter atualizado com as demandas do mercado. Reconhecido por minha dedicação, curiosidade e capacidade de trabalho em equipe, estou pronto para contribuir e crescer em um ambiente profissional estimulante
@@ -47,7 +48,10 @@ Projeto 3: Este projeto consiste em uma página HTML, CSS, JS que implementa um 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabsm02&show_icons=true&theme=dracula&include_allcommits+true&count_private=true"/>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabsm02&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-    
+
+##
+![snake gif](https://github.com/Gabsm02/Gabsm02/blob/output/github-contribution-grid-snake.gif)
 
 ## Obrigado por visitar meu perfil!
+
 
