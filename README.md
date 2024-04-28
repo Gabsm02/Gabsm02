@@ -1,8 +1,7 @@
 <h1>Olá, me chamo Gabriel Mendes!</h1>
-
 <h2>Sobre mim</h2>
 
-Olá, me chamo Gabriel, estou em busca de uma oportunidade como desenvolvedor front end onde possa aplicar minhas habilidades técnicas e conhecimentos adquiridos em desenvolvimento de software. Sou graduando em Engenharia de Software na UNIFACS e tenho certificação em Desenvolvimento Web Full Stack pela Cubos Academy, com conhecimento em backend e sólidas habilidades em frontend. Sou apaixonado por tecnologia e estou sempre buscando aprendizado contínuo para me manter atualizado com as demandas do mercado. Reconhecido por minha dedicação, curiosidade e capacidade de trabalho em equipe, estou pronto para contribuir e crescer em um ambiente profissional estimulante
+Sou graduando em Engenharia de Software na UNIFACS e tenho certificação em Desenvolvimento Web Full Stack pela Cubos Academy, com conhecimento em backend e sólidas habilidades em frontend. Sou apaixonado por tecnologia e estou sempre buscando aprendizado contínuo para me manter atualizado com as demandas do mercado. Reconhecido por minha dedicação, curiosidade e capacidade de trabalho em equipe, estou pronto para contribuir e crescer em um ambiente profissional estimulante
 
 <h2>Meus projetos:</h2>
 
