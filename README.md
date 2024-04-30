@@ -23,9 +23,7 @@ Projeto 3: Este projeto consiste em uma página HTML, CSS, JS que implementa um 
 - Trabalho em equipe
 - Resolução de Problemas
 - Atenção aos Detalhes
-
-## Experiência:
-
+- 
 <div style="display: inline_block"><br>
     <img align="center" alt="Gabs-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />   
     <img align="center" alt="Gabs-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
