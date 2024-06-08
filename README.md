@@ -4,7 +4,7 @@
 
 <h2>Sobre mim</h2>
 - 📚 Atualmente estudando: Java/Python/Angular </br>
-- 🖥️ Trainee na Praxis empresa júnior
+- 🖥️ Membro da Praxis empresa júnior
 </br></br>
 Sou graduando em Engenharia de Software na UNIFACS, tenho certificação em Desenvolvimento Web Full Stack pela Cubos Academy e bootcamp de java da DIO, com conhecimento em backend e sólidas habilidades em frontend. Sou apaixonado por tecnologia e estou sempre buscando aprendizado contínuo para me manter atualizado com as demandas do mercado. Reconhecido por minha dedicação, curiosidade e capacidade de trabalho em equipe, estou pronto para contribuir e crescer em um ambiente profissional estimulante
 
