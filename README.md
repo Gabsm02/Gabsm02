@@ -3,7 +3,7 @@
 </h1>
 
 <h2>Sobre mim</h2>
-- 📚 Atualmente estudando: Java/Python/Angular </br>
+- 📚 Atualmente estudando: Análise de Dados </br>
 - 🖥️ Membro da Praxis empresa júnior
 </br></br>
 Sou graduando em Engenharia de Software na UNIFACS, tenho certificação em Desenvolvimento Web Full Stack pela Cubos Academy e bootcamp de java da DIO, com conhecimento em backend e sólidas habilidades em frontend. Sou apaixonado por tecnologia e estou sempre buscando aprendizado contínuo para me manter atualizado com as demandas do mercado. Reconhecido por minha dedicação, curiosidade e capacidade de trabalho em equipe, estou pronto para contribuir e crescer em um ambiente profissional estimulante
@@ -29,13 +29,13 @@ Projeto 3: Este projeto consiste em uma página HTML, CSS, JS que implementa um 
     <img align="center" alt="Gabs-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
     <img align="center" alt="Gabs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Gabs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Gabs-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg">
+    <img align="center" alt="Gabs-Boostrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg">
     <img align="center" alt="Gabs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Gabs-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
     <img align="center" alt="Gabs-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Gabs-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-    <img align="center" alt="Gabs-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
     <img align="center" alt="Gabs-Nodejs" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+    <img align="center" alt="Gabs-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+    <img align="center" alt="Gabs-Mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
 </div>
 
 ##
