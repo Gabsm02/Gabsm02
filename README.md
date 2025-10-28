@@ -11,8 +11,8 @@ Sou graduando em Engenharia de Software na UNIFACS, tenho certificação em Dese
 
 ## Meus projetos:
 
-Projeto 1: Uma ideia de um site para portifólio.
-Estou sempre procurando novos projetos para trabalhar, então se você tiver alguma ideia, não hesite em me contatar.
+Projeto 1: Desenvolvi uma automação em Python para processar e consolidar indicadores de disponibilidade de rede móvel (2G, 3G, 4G, 5G) no estado da Bahia. O script lê planilhas diárias, semanais e mensais, filtra os dados relevantes por município e site, aplica validações, formatações e exporta os resultados em arquivos Excel prontos para análise.
+Essa solução reduz o tempo de processamento manual, garante consistência nos dados e facilita o acompanhamento da performance da rede em diferentes períodos.
 
 Projeto 2: Este projeto é uma aplicação web interativa de reprodução de música, desenvolvida utilizando a biblioteca React. Através desta aplicação, os usuários podem explorar e reproduzir uma lista de músicas disponíveis. A interface do usuário é organizada de forma intuitiva e oferece diversas funcionalidades relacionadas à reprodução de música, incluindo controle de reprodução, seleção de faixas, exibição de informações sobre a música em reprodução e uma barra de progresso para acompanhar o tempo de reprodução.
 
