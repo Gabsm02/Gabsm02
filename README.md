@@ -18,7 +18,7 @@ Sou graduando em Engenharia de Software na UNIFACS, tenho certificação em Dese
 
 ### 📡 Automação e Dashboard de Infraestrutura O&M
 *Pipeline em Python que processa dados de infraestrutura de rede móvel (Bahia), cruza municípios com DDDs, filtra por contratada e mantém um histórico versionado em banco de dados MariaDB. Inclui dashboard interativo em Streamlit com filtros, gráficos e busca por site, permitindo acompanhar a evolução dos indicadores ao longo do tempo.*
-**[Visualizar Repositório](#https://github.com/Gabsm02/automacao_coinfra)** *(Coloque o link do seu repo no "#")*
+**[Visualizar Repositório](#https://github.com/Gabsm02/automacao_coinfra)** 
 
 
 ## Minhas habilidades:
