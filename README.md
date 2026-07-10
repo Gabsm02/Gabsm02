@@ -50,9 +50,9 @@ Projeto 3: Este projeto consiste em uma página HTML, CSS, JS que implementa um 
 
 <div>
   <a href="https://github.com/Gabsm02">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Gabsm02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=1" />
+    <img width="48%" src="profile-summary-cards-output/dracula/0-profile-details.svg" />
   </a>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabsm02&layout=compact&langs_count=16&theme=dracula&v=1" />
+  <img width="48%" src="profile-summary-cards-output/dracula/1-repo-stats.svg" />
 </div>
 
 ##
