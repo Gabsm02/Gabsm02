@@ -2,14 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+Chamo+Gabriel+Mendes!;" />
 </h1>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+Chamo+Gabriel+Mendes!;" />
-</h1>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gabsm02&label=VISITAS&color=0077B5&style=flat" alt="Contador de Visitas" />
-</div>
-<br>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Gabsm02&theme=dracula&no-frame=true&no-bg=true&margin-w=15&v=1" alt="Troféus do GitHub" />
 </div>
