@@ -6,10 +6,12 @@
 <p align="center">
 Estagiário de Engenharia na <b>Vivo (Telefônica Brasil)</b>, onde construo pipelines em Python que eliminam processos manuais em operações de rede móvel na Bahia — substituindo horas de trabalho repetitivo por automações que rodam sozinhas, cruzam bases de dados e entregam dashboards prontos para decisão.
 </p>
+
 <p align="center">
 📍 Salvador, Bahia &nbsp;|&nbsp; 🎓 Engenharia de Software — UNIFACS &nbsp;|&nbsp; 🖥️ Núcleo de TI — Praxis Empresa Júnior
 </p>
 <br>
+
 ## 🚀 Projetos em destaque
  
 ### 📡 Automação de Consolidação de Dados de ERB (Rádio Base)
@@ -29,6 +31,7 @@ Bot que permite a técnicos de campo consultar credenciais de acesso (portão/ga
 `Node.js` `Telegraf` `Google Sheets API`
  
 <br>
+
 ## 🛠️ Stack técnica
  
 **Linguagens & Backend**
@@ -39,7 +42,9 @@ Bot que permite a técnicos de campo consultar credenciais de acesso (portão/ga
     <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 </div>
+
 **Dados & Automação**
+
 <div>
     <img align="center" alt="Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
     <img align="center" alt="Mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
@@ -47,6 +52,7 @@ Bot que permite a técnicos de campo consultar credenciais de acesso (portão/ga
 Pandas &nbsp;•&nbsp; OpenPyXL &nbsp;•&nbsp; Requests / Sessions autenticadas &nbsp;•&nbsp; Microsoft Graph API &nbsp;•&nbsp; Power Automate &nbsp;•&nbsp; MariaDB/MySQL &nbsp;•&nbsp; Streamlit &nbsp;•&nbsp; OpenAI API
  
 **Frontend**
+
 <div>
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -54,6 +60,7 @@ Pandas &nbsp;•&nbsp; OpenPyXL &nbsp;•&nbsp; Requests / Sessions autenticadas
     <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg">
 </div>
 <br>
+
 ## 📈 GitHub Stats
  
 <div>
@@ -66,6 +73,7 @@ Pandas &nbsp;•&nbsp; OpenPyXL &nbsp;•&nbsp; Requests / Sessions autenticadas
 ![snake gif](https://github.com/Gabsm02/Gabsm02/blob/output/github-contribution-grid-snake.gif)
  
 <br>
+
 ## 📫 Contato
  
 <div>
