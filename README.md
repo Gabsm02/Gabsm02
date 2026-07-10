@@ -51,7 +51,7 @@ Projeto 3: Este projeto consiste em uma página HTML, CSS, JS que implementa um 
   <a href="https://github.com/Gabsm02">
     <img width="48%" src="profile-summary-card-output/dracula/0-profile-details.svg" />
   </a>
-  <img width="48%" src="profile-summary-card-output/dracula/1-repo-stats.svg" />
+  <img width="48%" src="profile-summary-card-output/dracula/1-repos-per-language.svg" />
 </div>
 
 ##
