@@ -49,6 +49,7 @@ Bot que permite a técnicos de campo consultar credenciais de acesso (portão/ga
     <img align="center" alt="Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
     <img align="center" alt="Mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
 </div>
+
 Pandas &nbsp;•&nbsp; OpenPyXL &nbsp;•&nbsp; Requests / Sessions autenticadas &nbsp;•&nbsp; Microsoft Graph API &nbsp;•&nbsp; Power Automate &nbsp;•&nbsp; MariaDB/MySQL &nbsp;•&nbsp; Streamlit &nbsp;•&nbsp; OpenAI API
  
 **Frontend**
@@ -59,6 +60,7 @@ Pandas &nbsp;•&nbsp; OpenPyXL &nbsp;•&nbsp; Requests / Sessions autenticadas
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg">
 </div>
+
 <br>
 
 ## 📈 GitHub Stats
