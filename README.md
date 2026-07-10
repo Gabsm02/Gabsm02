@@ -2,10 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+Chamo+Gabriel+Mendes!;" />
 </h1>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gabsm02&theme=dracula&no-frame=true&no-bg=true&v=2" alt="Troféus do GitHub" />
-</div>
-
 <h2>Sobre mim</h2>
 - 📍 De Salvador, Bahia <br/>
 - 📚 Atualmente estudando: Análise de Dados <br/>
