@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gabsm02&theme=dracula&no-frame=true&no-bg=true&margin-w=15&v=1" alt="Troféus do GitHub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Gabsm02&theme=dracula&no-frame=true&no-bg=true&v=2" alt="Troféus do GitHub" />
 </div>
 
 <h2>Sobre mim</h2>
