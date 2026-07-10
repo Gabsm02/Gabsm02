@@ -12,17 +12,14 @@ Sou graduando em Engenharia de Software na UNIFACS, tenho certificação em Dese
 
 ## Meus projetos:
 
-### 🐍 Automação de Dados de Rede Móvel
-*Script em Python para processar e consolidar indicadores de disponibilidade de rede (2G ao 5G) na Bahia. Lê planilhas, aplica formatações e exporta resultados em Excel, reduzindo o tempo de processamento manual.*
-**[Visualizar Repositório](#)** *(Coloque o link do seu repo no "#")*
+### 📡 Automação de Consolidação de Dados de ERB (Rádio Base)
+*Pipeline em Python que baixa, extrai e consolida indicadores de estações rádio base e status de backlog de rede móvel na Bahia, cruzando com base de referência e aplicando regras de negócio automaticamente. Reduz um processo manual de horas para minutos, eliminando erro humano no cruzamento de planilhas.*
+**[Visualizar Repositório](#https://github.com/Gabsm02/automacao_setores_celldowntime)** 
 
-### 🎵 Aplicação Web de Reprodução de Música
-*Interface interativa desenvolvida com React. Permite a exploração e reprodução de faixas, contando com controles dinâmicos, barra de progresso e exibição de informações em tempo real.*
-**[Visualizar Repositório](#)** *(Coloque o link do seu repo no "#")*
+### 📡 Automação e Dashboard de Infraestrutura O&M
+*Pipeline em Python que processa dados de infraestrutura de rede móvel (Bahia), cruza municípios com DDDs, filtra por contratada e mantém um histórico versionado em banco de dados MariaDB. Inclui dashboard interativo em Streamlit com filtros, gráficos e busca por site, permitindo acompanhar a evolução dos indicadores ao longo do tempo.*
+**[Visualizar Repositório](#https://github.com/Gabsm02/automacao_coinfra)** *(Coloque o link do seu repo no "#")*
 
-### 🍄 Jogo do Mario (Web Básico)
-*Jogo em HTML, CSS e JS onde o jogador controla o Mario pelo teclado para desviar de tubos. Inclui sistema de pontuação e detecção de colisão para a tela de Game Over.*
-**[Visualizar Repositório](#)** *(Coloque o link do seu repo no "#")*
 
 ## Minhas habilidades:
 
