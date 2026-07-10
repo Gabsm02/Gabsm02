@@ -62,6 +62,7 @@ Pandas &nbsp;•&nbsp; OpenPyXL &nbsp;•&nbsp; Requests / Sessions autenticadas
   </a>
   <img height="180" src="profile-summary-card-output/dracula/1-repos-per-language.svg" />
 </div>
+
 ![snake gif](https://github.com/Gabsm02/Gabsm02/blob/output/github-contribution-grid-snake.gif)
  
 <br>
