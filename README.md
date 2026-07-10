@@ -14,11 +14,11 @@ Sou graduando em Engenharia de Software na UNIFACS, tenho certificação em Dese
 
 ### 📡 Automação de Consolidação de Dados de ERB (Rádio Base)
 *Pipeline em Python que baixa, extrai e consolida indicadores de estações rádio base e status de backlog de rede móvel na Bahia, cruzando com base de referência e aplicando regras de negócio automaticamente. Reduz um processo manual de horas para minutos, eliminando erro humano no cruzamento de planilhas.*
-**[Visualizar Repositório](#https://github.com/Gabsm02/automacao_setores_celldowntime)** 
+**[Visualizar Repositório](https://github.com/Gabsm02/automacao_setores_celldowntime)** 
 
 ### 📡 Automação e Dashboard de Infraestrutura O&M
 *Pipeline em Python que processa dados de infraestrutura de rede móvel (Bahia), cruza municípios com DDDs, filtra por contratada e mantém um histórico versionado em banco de dados MariaDB. Inclui dashboard interativo em Streamlit com filtros, gráficos e busca por site, permitindo acompanhar a evolução dos indicadores ao longo do tempo.*
-**[Visualizar Repositório](#https://github.com/Gabsm02/automacao_coinfra)** 
+**[Visualizar Repositório](https://github.com/Gabsm02/automacao_coinfra)** 
 
 
 ## Minhas habilidades:
