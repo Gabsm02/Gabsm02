@@ -29,6 +29,7 @@ Pipeline em Python que processa dados de infraestrutura de rede móvel (Bahia), 
 ### 🤖 BotAcessos — Bot de Consulta de Credenciais via Telegram
 Bot que permite a técnicos de campo consultar credenciais de acesso (portão/gabinete) de sites de rede diretamente pelo Telegram, com backend em Google Sheets. Migrado de Python para Node.js.
 `Node.js` `Telegraf` `Google Sheets API`
+**[→ Ver repositório](https://github.com/Gabsm02/bot-telegram)**
  
 <br>
 
